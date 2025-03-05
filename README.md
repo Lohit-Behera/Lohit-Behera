@@ -30,7 +30,6 @@ Secure authentication, Razorpay integration, and an intuitive shopping experienc
 
 ## 📫 Connect with Me  
 🌐 [Portfolio](https://lohit-sekhar.behera.info/)  
-🐙 [GitHub](https://github.com/Lohit-Behera)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lohit-sekhar-behera/)  
 
 ---
