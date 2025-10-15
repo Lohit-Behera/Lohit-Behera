@@ -29,7 +29,7 @@ Secure authentication, Razorpay integration, and an intuitive shopping experienc
 🎓 **Master of Computer Applications** (MCA) – Jain (Deemed-to-be University) (2022 - 2024)  
 
 ## 📫 Connect with Me  
-🌐 [Portfolio](https://lohit-sekhar.behera.info/)  
+🌐 [Portfolio](https://lohit-sekhar-behera.vercel.app)
 🔗 [LinkedIn](https://www.linkedin.com/in/lohit-sekhar-behera/)  
 
 ---
